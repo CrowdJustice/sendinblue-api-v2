@@ -1,0 +1,10 @@
+MANIFEST.in
+mailin.py
+requirements.txt
+setup.py
+Sendinblue.egg-info/.DS_Store
+Sendinblue.egg-info/PKG-INFO
+Sendinblue.egg-info/SOURCES.txt
+Sendinblue.egg-info/dependency_links.txt
+Sendinblue.egg-info/requires.txt
+Sendinblue.egg-info/top_level.txt
